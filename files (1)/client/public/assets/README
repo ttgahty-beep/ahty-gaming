@@ -1,0 +1,13 @@
+Place high quality models and assets here:
+
+- models/
+  - ferrari.glb
+  - lambo.glb
+  - bmw.glb
+  - gtr.glb
+- env/
+  - studio.hdr
+- decals/
+- fonts/
+
+The GLTF/GLB assets should be optimized (draco compressed optional) and PBR-ready.
